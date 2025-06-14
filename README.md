@@ -1,5 +1,4 @@
 # Part 1 – PhysGaussian Baseline
-materials—
 
 1. jelly(ficus)
 
