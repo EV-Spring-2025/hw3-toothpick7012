@@ -34,6 +34,7 @@
 # Part 2 – Exploring MPM Parameter Effects
 setup：
 
+![image](https://github.com/user-attachments/assets/b3017ff0-22b6-403a-a3c3-de171f75fb78)
 
    
 result：
@@ -56,6 +57,9 @@ result：
    https://github.com/user-attachments/assets/c147ce4b-d9d5-48c3-b307-bc5cd783bfa3
 
    model4:
+   
+   https://github.com/user-attachments/assets/5996a912-6be2-47e3-9060-bd2a296fb1fe
+
 
 
    
