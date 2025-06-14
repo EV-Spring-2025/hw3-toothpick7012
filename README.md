@@ -33,3 +33,19 @@
    https://github.com/user-attachments/assets/c6156497-3ab0-4dc4-a4ac-0f285f526c00
 
 # Part 2 – Exploring MPM Parameter Effects
+   setup:
+   
+   result:
+
+   baseline：
+
+   model1:
+
+   model2:
+
+   model3:
+
+   model4:
+
+
+   
