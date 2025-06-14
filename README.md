@@ -29,21 +29,31 @@
 
    result:
 
-
    https://github.com/user-attachments/assets/c6156497-3ab0-4dc4-a4ac-0f285f526c00
 
 # Part 2 – Exploring MPM Parameter Effects
-   setup:
+setup：
+
+
    
-   result:
+result：
 
    baseline：
 
+   https://github.com/user-attachments/assets/b9c4fbe4-f893-423f-82c0-97ad7b798ea0
+
    model1:
+
+   https://github.com/user-attachments/assets/770b1575-635e-442a-bc8b-effe25898d3c
+
 
    model2:
 
+   https://github.com/user-attachments/assets/0f597b23-663f-404e-9ea0-f1b7b4879534
+
    model3:
+   
+   https://github.com/user-attachments/assets/c147ce4b-d9d5-48c3-b307-bc5cd783bfa3
 
    model4:
 
