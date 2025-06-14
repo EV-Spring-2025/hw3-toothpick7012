@@ -11,15 +11,14 @@ materials—
 
     https://github.com/user-attachments/assets/4d8a5f5d-3039-4d17-b95a-9a42107fc396
 
-2.plasticine
+2. plasticine
 
-    setup:
+   setup:
 
-    ![image](https://github.com/user-attachments/assets/70dcc888-1c88-4998-a7f3-64eeae7ba050)
+   ![image](https://github.com/user-attachments/assets/70dcc888-1c88-4998-a7f3-64eeae7ba050)
 
+   result:
 
-    result:
-
-    https://github.com/user-attachments/assets/08d7760a-fb5f-4d03-94de-04ea119eea8e
+   https://github.com/user-attachments/assets/08d7760a-fb5f-4d03-94de-04ea119eea8e
 
 
