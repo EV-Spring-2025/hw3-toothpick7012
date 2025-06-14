@@ -1,36 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SdXSjEmH)
-# EV-HW3: PhysGaussian
+# Part 1 – PhysGaussian Baseline
+materials—
 
-This homework is based on the recent CVPR 2024 paper [PhysGaussian](https://github.com/XPandora/PhysGaussian/tree/main), which introduces a novel framework that integrates physical constraints into 3D Gaussian representations for modeling generative dynamics.
+1. jelly
 
-You are **not required** to implement training from scratch. Instead, your task is to set up the environment as specified in the official repository and run the simulation scripts to observe and analyze the results.
+    setup:
 
+    ![image](https://github.com/user-attachments/assets/05d96b1d-f434-403c-8b89-f298ab3aa180)
 
-## Getting the Code from the Official PhysGaussian GitHub Repository
-Download the official codebase using the following command:
-```
-git clone https://github.com/XPandora/PhysGaussian.git
-```
+    result:
 
+    https://github.com/user-attachments/assets/4d8a5f5d-3039-4d17-b95a-9a42107fc396
 
-## Environment Setup
-Navigate to the "PhysGaussian" directory and follow the instructions under the "Python Environment" section in the official README to set up the environment.
+2.plasticine
 
+    setup:
 
-## Running the Simulation
-Follow the "Quick Start" section and execute the simulation scripts as instructed. Make sure to verify your outputs and understand the role of physics constraints in the generated dynamics.
+    result:
 
-
-## Homework Instructions
-Please complete Part 1–2 as described in the [Google Slides](https://docs.google.com/presentation/d/13JcQC12pI8Wb9ZuaVV400HVZr9eUeZvf7gB7Le8FRV4/edit?usp=sharing).
-
-
-# Reference
-```bibtex
-@inproceedings{xie2024physgaussian,
-    title     = {Physgaussian: Physics-integrated 3d gaussians for generative dynamics},
-    author    = {Xie, Tianyi and Zong, Zeshun and Qiu, Yuxing and Li, Xuan and Feng, Yutao and Yang, Yin and Jiang, Chenfanfu},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-    year      = {2024}
-}
-```
+   
