@@ -31,6 +31,28 @@ result：
    
    https://github.com/user-attachments/assets/5996a912-6be2-47e3-9060-bd2a296fb1fe
 
+# Plasticine(wolf)
 
+setup：
+
+result：
+
+   baseline：
+
+   https://github.com/user-attachments/assets/6cd5294f-b5fe-4989-9cc5-f20091a7d8be
+
+   model1:
+
+   https://github.com/user-attachments/assets/9b17fddd-e307-4574-a7cb-052f0fe7106f
+
+   model2:
+   
+   https://github.com/user-attachments/assets/75633c9a-2f00-4a9d-8e7a-4d28498f5f12
+
+   model3:
+
+   https://github.com/user-attachments/assets/5542b5ca-5fd8-4120-8f62-8ca73ba41c0e
+
+   model4:  
 
    
