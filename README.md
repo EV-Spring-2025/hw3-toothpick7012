@@ -37,6 +37,9 @@ setup：
 
 ![image](https://github.com/user-attachments/assets/db4c1d77-b528-4afa-bcc8-ca296075c427)
 
+![image](https://github.com/user-attachments/assets/c09e812e-174c-406e-915e-d2fa343b6f66)
+
+
 result：
 
    baseline：
@@ -57,4 +60,5 @@ result：
 
    model4:  
 
-   
+   https://github.com/user-attachments/assets/7cf76011-d9ef-479b-89c5-219366af7c2d
+
